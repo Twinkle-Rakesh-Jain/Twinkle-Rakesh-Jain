@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Twinkle Rakesh Jain</h1>
 <h3 align="center">A seasoned professional currently on the exciting journey of pursuing a Master's in Information Technology and Management at UTD. With a background in marketing, I bring a unique blend of skills encompassing both business acumen and data analysis prowess. My passion lies in leveraging data-driven solutions to tackle complex business challenges. Whether it's optimizing marketing strategies, streamlining operations, or enhancing decision-making processes, I thrive on the intersection of business and technology. I'm eagerly seeking opportunities to contribute to dynamic teams and tackle challenging projects head-on. If you're on the lookout for someone who's adept at turning data into actionable insights, let's connect and collaborate!</h3>
