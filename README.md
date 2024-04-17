@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Twinkle Rakesh Jain</h1>
-<h3 align="center">A seasoned professional currently on the exciting journey of pursuing a Master's in Information Technology and Management at UTD. With a background in marketing, I bring a unique blend of skills encompassing both business acumen and data analysis prowess. Whether it's optimizing marketing strategies, streamlining operations, or enhancing decision-making processes, I thrive on the intersection of business and technology. I'm eagerly seeking opportunities to contribute to dynamic teams and tackle challenging projects head-on. If you're on the lookout for someone who's adept at turning data into actionable insights, let's connect and collaborate!</h3>
+<h3 align="center">A seasoned professional currently on the exciting journey of completing a Master's in Information Technology and Management at UTD. With a background in marketing, I bring a unique blend of skills encompassing both business acumen and data analysis prowess. Whether it's optimizing marketing strategies, streamlining operations, or enhancing decision-making processes, I thrive on the intersection of business and technology. I'm eagerly seeking opportunities to contribute to dynamic teams and tackle challenging projects head-on. If you're on the lookout for someone who's adept at turning data into actionable insights, let's connect and collaborate!</h3>
 
 <img align= "right" alt ="Coding" width= "400" src="https://www.springboard.com/blog/wp-content/uploads/2021/08/what-does-a-data-analyst-do-2022-career-guide.png">
 
